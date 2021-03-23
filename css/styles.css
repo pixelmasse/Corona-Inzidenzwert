@@ -1,0 +1,13 @@
+body {font-family: arial; font-size: 1em}
+.covid_wrapper {border-radius: 25px; border: 2px solid #cdcdcd; padding: 0px; width: 200px; height: 160px; text-align: center;}
+
+h1.text_klein {font-size: 0.75em; padding: 5px; font-weight: normal; margin: 0px; }
+span.klein {font-size: 0.65em; text-align: left; margin-top: 10px; line-height: auto; padding: 0px}
+
+#iWert {padding: 5px 10px; border-top: solid 2px #000; border-bottom: solid 2px #000; color: #fff; text-align: center; font-size: 2em;}
+#iWert.gruen {background-color: #00cc0095; border-color: #00cc00}
+#iWert.gelb {background-color: #ffcc3395; border-color: #ffcc33}
+#iWert.rot {background-color: #ff003395; border-color: #ff0033}
+
+#iLandkreis {font-size: 1em; padding-top: 5px;}
+#iDatenstand {font-size: 0.75em; padding-top: 5px;}
